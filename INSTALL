@@ -1,0 +1,15 @@
+Requires libglib2.0-dev, ctags, openssl, libpcre2
+
+To build type `make`.
+To build self-signed keys for local use or testing, type `make cert`.
+
+Has only a very basic 'install' method in the makefile.
+
+There is no init time launch method implemented.  Author runs muditm from the
+same guardian script used to keep the MUD running, which is not included here.
+A systemd, sysvinit, etc. type init script would be a welcome addition to the
+project!
+
+Edit the muditm.conf config file per the comments in the file.
+
+Run `muditm -c ./muditm.conf`

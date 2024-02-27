@@ -1,0 +1,4 @@
+* change listen from a port number to a service name in config for consistency
+* make ssl errors go to muditm_log
+* Fix possible short writes?
+
