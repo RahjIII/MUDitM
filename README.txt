@@ -122,14 +122,6 @@ at:
 
 https://last-outpost.com/LO/pubcode
 
-There is no "sourceforge" or "github" or "gitlab" or "slack" or "google code"
-or "public svn" or other "open source repository" for this project. 
-
-If you found MUDitM on one of those kind of repos, you can safely assume that
-is a fork, and it has nothing to do with me, the original author.  I probably
-won't be looking at the fork, so don't get mad when I don't respond to things
-that have been posted to wherever that is.
-
 Thanks
 ------
 
